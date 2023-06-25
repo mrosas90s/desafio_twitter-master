@@ -242,3 +242,8 @@ RUBY VERSION
 
 BUNDLED WITH
    2.3.26
+
+PLATFORMS
+  x86-mingw32
+  ruby 
+  x86_64-linux
